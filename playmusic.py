@@ -8,7 +8,7 @@ from bing_speech_api import BingSpeechAPI
 from mpd import MPDClient
 
 # get a key from https://www.microsoft.com/cognitive-services/en-us/speech-api
-BING_KEY = '317fc2a246414f54a91a78508948a618'
+BING_KEY = ''
 
 listNames = []
 

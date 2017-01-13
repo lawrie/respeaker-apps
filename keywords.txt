@@ -1,0 +1,4 @@
+respeaker /1e-30/
+marvin /1e-30/
+alexa /1e-30/
+play music /1e-40/
